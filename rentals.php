@@ -622,6 +622,7 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script>
+</head>
 <body>
 <div id="container">
 <div id="header">
